@@ -5,5 +5,5 @@ function palindrome(str) {
   return reverseStr === lowRegStr;
 }
 
-palindrome("RACECAR");
+palindrome("EYE");
 
